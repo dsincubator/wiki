@@ -1,0 +1,8 @@
+description: Verbatim markdown transcripts — one per video (Video Transcript,
+  stable), one-to-one with summaries/source_* via video_id. Index at
+  transcripts/index.md.
+tags:
+  - transcript
+  - youtube
+  - verbatim
+title: Transcripts

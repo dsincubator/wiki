@@ -1,0 +1,8 @@
+description: "Provisional per-video summaries distilled from transcripts/raw —
+  one source_<id>_<slug>.md per YouTube video, OKF status: draft, cites its
+  transcript."
+tags:
+  - summary
+  - youtube
+  - draft
+title: Video Summaries
